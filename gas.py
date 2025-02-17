@@ -1,1 +1,1 @@
-def main():
+print("main")
